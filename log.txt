@@ -1,0 +1,93 @@
+commit 33a30717ca42e76907fdf616b7350374eebccfb1 (HEAD -> master)
+Author: FavianaPimentel <favy.pimentel@gmail.com>
+Date:   Sun Aug 19 16:30:06 2018 -0400
+
+    Modificacion del commit del archivo Index
+    # Se agrego contenido al archivo Index
+    Segun indicacionn de la tarea"
+
+ index.html | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+commit 16f2d231271c6d60fbda2f0d89c9d49d5ace8860
+Author: FavianaPimentel <favy.pimentel@gmail.com>
+Date:   Sun Aug 19 16:12:59 2018 -0400
+
+    Commit modificados
+
+ css/styles.css => .gitignore |   0
+ README.md                    |   1 +
+ imagenes/img2.jpg            | Bin 18697 -> 0 bytes
+ img/img1.jpg                 | Bin 284336 -> 0 bytes
+ img/img2.jpg                 | Bin 18697 -> 0 bytes
+ js/main.js                   |   0
+ readme.txt                   |   0
+ 7 files changed, 1 insertion(+)
+
+commit 2105c5cc65853066f42913b53592b897060fa8c2
+Author: FavianaPimentel <favy.pimentel@gmail.com>
+Date:   Fri Aug 17 18:38:00 2018 -0400
+
+    Nuevo mensaje del commit modificado
+
+ index.html | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit 8d75219fc94f3f3427ff478de0687c52cc6b65c9
+Author: FavianaPimentel <favy.pimentel@gmail.com>
+Date:   Fri Aug 17 18:36:27 2018 -0400
+
+    # Cambio de ubicacion en las carpetas
+
+ assets/css/styles.css |   0
+ assets/img/img1.jpg   | Bin 0 -> 284336 bytes
+ assets/img/img2.jpg   | Bin 0 -> 18697 bytes
+ assets/js/main.js     |   0
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6ccb72bdddc2a1ebe2554b31278a1ed1f7173abc
+Author: FavianaPimentel <favy.pimentel@gmail.com>
+Date:   Fri Aug 17 18:03:42 2018 -0400
+
+    Renombro carmeta de imagenes a img
+
+ img/img1.jpg | Bin 0 -> 284336 bytes
+ img/img2.jpg | Bin 0 -> 18697 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b8bbc6752f753fcecc6515e9c205694587878313
+Author: FavianaPimentel <favy.pimentel@gmail.com>
+Date:   Fri Aug 17 18:01:15 2018 -0400
+
+    Agrego en la historia img2
+
+ imagenes/img2.jpg | Bin 0 -> 18697 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 824d4db8d58b6cfcf682e43f9f9ec4520525add7
+Author: FavianaPimentel <favy.pimentel@gmail.com>
+Date:   Fri Aug 17 17:56:17 2018 -0400
+
+    se agregaron los dos archivos creados
+
+ css/styles.css | 0
+ js/main.js     | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f62d3eae77336375919b8b39f257864cd87da001
+Author: FavianaPimentel <favy.pimentel@gmail.com>
+Date:   Fri Aug 17 17:50:22 2018 -0400
+
+    Commit de cambio de nombre README
+
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0ee28598246ff9ed2883e092de94f2c11cb9709b
+Author: FavianaPimentel <favy.pimentel@gmail.com>
+Date:   Fri Aug 17 17:44:30 2018 -0400
+
+    Commit Inicial
+
+ readme.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)

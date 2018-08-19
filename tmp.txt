@@ -1,0 +1,44 @@
+diff --git a/readme.txt b/.gitignore
+similarity index 100%
+rename from readme.txt
+rename to .gitignore
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..589c60f
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++#Practica1
+\ No newline at end of file
+diff --git a/assets/css/styles.css b/assets/css/styles.css
+new file mode 100644
+index 0000000..e69de29
+diff --git a/assets/img/img1.jpg b/assets/img/img1.jpg
+new file mode 100644
+index 0000000..9aa3f35
+Binary files /dev/null and b/assets/img/img1.jpg differ
+diff --git a/assets/img/img2.jpg b/assets/img/img2.jpg
+new file mode 100644
+index 0000000..f4f1b32
+Binary files /dev/null and b/assets/img/img2.jpg differ
+diff --git a/assets/js/main.js b/assets/js/main.js
+new file mode 100644
+index 0000000..e69de29
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..063b299
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,11 @@
++<html>
++    <head>
++
++    </head>
++
++<body>
++
++ Hasta el momento me ha gustado de Git la forma de controlar los cambios y contenidos de los archivos y folders
++Git, es un software de control de versiones diseñado por Linus Torvalds. La pregunta es ¿qué es control de versiones? Pues bien, se define como control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración del mismo es decir a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración, y para los que aún no les queda claro del todo, control de versiones es lo que se hace al momento de estar desarrollando un software o una página web. Exactamente es eso que haces cuando subes y actualizas tu código en la nube, o le añades alguna parte o simplemente le editas cosas que no funcionan como deberían o al menos no como tú esperarías.
++ </body>
++</html>
+\ No newline at end of file
